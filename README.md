@@ -1,10 +1,10 @@
-- 👋 Soy @apamaio
-- 👀 Estoy interesado en aprender y ayudar.
-- 🌱 Estoy aprendiendo Python y Java. Me gusta un monton PLS/SQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 Si necesitas ayuda, estoy por acá.
-
-<!---
-apamaio/apamaio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 ¡Hola! Soy @apamaio.
+  -  Desarrollador con experiencia en:
+    - Implementación y personalización de módulos en Totvs RM.
+    - Desarrollo de workflows y aplicaciones en Totvs Fluig.
+    - Creación y mantenimiento de scripts PL/SQL en Oracle.- 👀 Estoy interesado en aprender y ayudar.
+- 👀 Buscando oportunidades para:
+  - Colaborar en proyectos de bases de datos Oracle PL/SQL.
+  - Colaborar en proyectos relacionados a desenvolvimento de sistemas ERP com Totvs.
+- 🌱 Estoy aprendiendo Python y Java. Me gusta un monton PLS/SQL. Pero tengo mucho conocimiento em Totvs RM e Totvs Fluig.
+- 📫 ¡No dudes en contactarme si necesitas ayuda!
