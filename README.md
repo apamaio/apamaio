@@ -1,10 +1,9 @@
-- 👋 ¡Hola! Soy @apamaio.
-  -  Desarrollador con experiencia en:
-    - Implementación y personalización de módulos en Totvs RM.
-    - Desarrollo de workflows y aplicaciones en Totvs Fluig.
-    - Creación y mantenimiento de scripts PL/SQL en Oracle.- 👀 Estoy interesado en aprender y ayudar.
-- 👀 Buscando oportunidades para:
+- 👋 ¡Hola gente! Soy @apamaio. Desarrollador con experiencia en:
+  - Implementación y personalización de módulos en Totvs RM (Reports, Formulas Visual).
+  - Desarrollo de workflows y aplicaciones en Totvs Fluig.
+  - Creación y mantenimiento de scripts PL/SQL en Oracle.
+- 👀 Me interesa aprender y dar una mano en lo que se necesite. Buscando oportunidades para:
   - Colaborar en proyectos de bases de datos Oracle PL/SQL.
-  - Colaborar en proyectos relacionados a desenvolvimento de sistemas ERP com Totvs.
-- 🌱 Estoy aprendiendo Python y Java. Me gusta un monton PLS/SQL. Pero tengo mucho conocimiento em Totvs RM e Totvs Fluig.
-- 📫 ¡No dudes en contactarme si necesitas ayuda!
+  - Colaborar en proyectos relacionados al desarrollo de sistemas ERP con Totvs.
+- 🌱 Estoy aprendiendo Python y Java. Me re copa PL/SQL, pero tengo bastante cancha en Totvs RM y Totvs Fluig.
+- 📫 ¡Si necesitan algo, chiflen nomás!
