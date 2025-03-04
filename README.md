@@ -7,3 +7,15 @@
   - Colaborar en proyectos relacionados al desarrollo de sistemas ERP con Totvs.
 - 🌱 Estoy aprendiendo Python y Java. Me re copa PL/SQL, pero tengo bastante cancha en Totvs RM y Totvs Fluig.
 - 📫 ¡Si necesitan algo, chiflen nomás!
+
+---
+
+ - 👋 Hey everyone! I'm @apamaio. Developer with experience in:
+   - Implementation and customization of modules in Totvs RM (Reports, Visual Formulas).
+   - Development of workflows and applications in Totvs Fluig.
+   - Creation and maintenance of PL/SQL scripts in Oracle.
+- 👀 I'm interested in learning and lending a hand wherever needed. Looking for opportunities to:
+   - Collaborate on Oracle PL/SQL database projects.
+   - Collaborate on projects related to ERP systems development with Totvs.
+- 🌱 I'm learning Python and Java. I really love PL/SQL, but I have a lot of experience with Totvs RM and Totvs Fluig.
+- 📫 If you need anything, just give me a shout!
