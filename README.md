@@ -1,12 +1,12 @@
-- 👋 ¡Hola! Soy @apamaio. Desarrollador con experiencia en:
-  - Implementación y personalización de módulos en Totvs RM (Reports, Formulas Visual).
-  - Desarrollo de workflows y aplicaciones en Totvs Fluig.
-  - Creación y mantenimiento de scripts PL/SQL en Oracle.
-- 👀 Me interesa aprender y dar una mano en lo que se necesite. Buscando oportunidades para:
-  - Colaborar en proyectos de bases de datos Oracle PL/SQL.
-  - Colaborar en proyectos relacionados al desarrollo de sistemas ERP con Totvs RM.
-- 🌱 Estoy aprendiendo Java-Script. Me re copa PL/SQL, pero tengo bastante cancha en Totvs RM y Totvs Fluig.
-- 📫 ¡Si necesitan algo, chiflen nomás!
+- 👋 Olá! Sou @apamaio. Desenvolvedor com experiência em:
+  - Implementação e personalização de módulos no Totvs RM (Reports, Fórmulas Visuais).
+  - Desenvolvimento de workflows e aplicações no Totvs Fluig.
+  - Criação e manutenção de scripts PL/SQL em Oracle.
+- 👀 Tenho interesse em aprender e dar uma mão no que for preciso. Busco oportunidades para:
+  - Colaborar em projetos de bancos de dados Oracle PL/SQL.
+  - Colaborar em projetos relacionados ao desenvolvimento de sistemas ERP com Totvs RM.
+- 🌱 Estou aprendendo JavaScript. Curto muito PL/SQL, mas tenho bastante experiência em Totvs RM e Totvs Fluig.
+- 📫 Se precisar de algo, é só dar um grito!
 
 ---
 
@@ -19,3 +19,16 @@
    - Collaborate on projects related to ERP systems development with Totvs RM.
 - 🌱 I'm learning  Java-Script. I really love PL/SQL, but I have a lot of experience with Totvs RM and Totvs Fluig.
 - 📫 If you need anything, just give me a shout!
+
+---
+
+- 👋 ¡Hola! Soy @apamaio. Desarrollador con experiencia en:
+  - Implementación y personalización de módulos en Totvs RM (Reports, Formulas Visual).
+  - Desarrollo de workflows y aplicaciones en Totvs Fluig.
+  - Creación y mantenimiento de scripts PL/SQL en Oracle.
+- 👀 Me interesa aprender y dar una mano en lo que se necesite. Buscando oportunidades para:
+  - Colaborar en proyectos de bases de datos Oracle PL/SQL.
+  - Colaborar en proyectos relacionados al desarrollo de sistemas ERP con Totvs RM.
+- 🌱 Estoy aprendiendo Java-Script. Me re copa PL/SQL, pero tengo bastante cancha en Totvs RM y Totvs Fluig.
+- 📫 ¡Si necesitan algo, chiflen nomás!
+
